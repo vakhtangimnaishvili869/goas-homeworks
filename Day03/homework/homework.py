@@ -1,3 +1,4 @@
+#extra homework
 from turtle import *
 speed(10000000000000000)
 color("lawngreen")
@@ -289,7 +290,6 @@ forward(170)
 left(90)
 forward(20)
 end_fill()
-
 penup()
 goto(-100, -90)
 pendown()
@@ -304,11 +304,4 @@ left(90)
 forward(20)
 end_fill()
 # end of road
-
-
-
-
-
-
-
 exitonclick()
